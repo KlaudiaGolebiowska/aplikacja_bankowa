@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9740338e-6737-48ef-bbb9-92f681c6209c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aplikacja_bankowa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/cash_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_cash_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_parametrized.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mspf9ibN3qoRlqiZ4DoxIbAxA5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_card.TestCard">
+    <configuration name="cash_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aplikacja_bankowa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/cash_machine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_card.TestCard" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="aplikacja_bankowa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_card.TestCard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_cash_machine.TestCashMachine.test_whenWantToWithdrawCash_thenCashIsReturned" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="aplikacja_bankowa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cash_machine.TestCashMachine.test_whenWantToWithdrawCash_thenCashIsReturned&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_parametrized.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="aplikacja_bankowa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_parametrized.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_exception.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="aplikacja_bankowa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_exception.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_card.TestCard" />
+        <item itemvalue="Python tests.Unittests for test_cash_machine.TestCashMachine.test_whenWantToWithdrawCash_thenCashIsReturned" />
+        <item itemvalue="Python tests.Unittests for test_parametrized.Test" />
+        <item itemvalue="Python.cash_machine" />
+        <item itemvalue="Python tests.Unittests in test_exception.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9740338e-6737-48ef-bbb9-92f681c6209c" name="Default Changelist" comment="" />
+      <created>1610292253877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610292253877</updated>
+      <workItem from="1610292256585" duration="1296000" />
+      <workItem from="1610304972813" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610292828262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610292828262" />
+    <state width="1348" height="265" key="GridCell.Tab.0.bottom" timestamp="1610293555576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1348" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610293555576" />
+    <state width="1348" height="265" key="GridCell.Tab.0.center" timestamp="1610293555576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1348" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610293555576" />
+    <state width="1348" height="265" key="GridCell.Tab.0.left" timestamp="1610293555576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1348" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610293555576" />
+    <state width="1348" height="265" key="GridCell.Tab.0.right" timestamp="1610293555576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1348" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610293555576" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1610292834489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610292834489" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1610304973640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610304973640" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$card.coverage" NAME="card Coverage Results" MODIFIED="1610292850477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$Unittests_for_test_account_TestAccount_test_whenAccountNumberIsCalled_thenAccountNumberIsReturned.coverage" NAME="Unittests for test_account.TestAccount.test_whenAccountNumberIsCalled_thenAccountNumberIsReturned Coverage Results" MODIFIED="1610292877846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$account.coverage" NAME="account Coverage Results" MODIFIED="1610292865717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$Unittests_for_test_cash_machine_TestCashMachine_test_whenWantToWithdrawCash_thenCashIsReturned.coverage" NAME="Unittests for test_cash_machine.TestCashMachine.test_whenWantToWithdrawCash_thenCashIsReturned Coverage Results" MODIFIED="1610293003920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$cash_machine.coverage" NAME="cash_machine Coverage Results" MODIFIED="1610292968083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$Unittests_for_test_parametrized_Test.coverage" NAME="Unittests for test_parametrized.Test Coverage Results" MODIFIED="1610292973028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$Unittests_in_test_exception_py.coverage" NAME="Unittests in test_exception.py Coverage Results" MODIFIED="1610292901291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$Unittests_for_test_card_TestCard.coverage" NAME="Unittests for test_card.TestCard Coverage Results" MODIFIED="1610293181191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/aplikacja_bankowa$Unittests_in_test_card_py.coverage" NAME="Unittests in test_card.py Coverage Results" MODIFIED="1610292886790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+</project>
