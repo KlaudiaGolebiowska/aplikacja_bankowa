@@ -1,5 +1,5 @@
 
-![cover](https://klaudiagolebiowska.github.io/aplikacja_bankoga/Capture.png)
+![cover](https://klaudiagolebiowska.github.io/aplikacja_bankoga/Capture.PNG)
 
 # Bank app in Python with Tests
 
